@@ -2,6 +2,9 @@
 
 Blah blah
 
+* TOC
+{:toc}
+
 ## Section 1
 
 Blah blah blah
