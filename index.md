@@ -1,6 +1,4 @@
-# Soaring USA
-
-Blah blah
+# Table of Contents
 
 * TOC
 {:toc}
